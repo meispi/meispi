@@ -2,7 +2,7 @@
 - 🔭 I am currently working on improving my hacking and DSA skills. On weekends I solve some CTF challenges at [ctftime](https://ctftime.org/) and participate in DSA based contests on leetcode, geeksforgeeks and coding ninja.
 - 📖 I write [blogs](https://meispi.github.io/) about some of the things that I learn and try to explain them in a much simpler way. 
 - 📫 Reach out to me on: [Twitter](https://twitter.com/meispi_) or [LinkedIn](https://www.linkedin.com/in/meispi/)
-- 📃 [My resume](https://drive.google.com/file/d/1azhN-j9t76pYGMK_lUT9IDSsS3nHlfME/view?usp=sharing)
+- 📃 [My resume](https://drive.google.com/file/d/1r4ScP6HcAImqfNWp1Hl5lOHhOZeZXVT5/view?usp=sharing)
 <img src="https://media.giphy.com/media/jOsHaMf80vUfevmEkn/giphy.gif" width="256">
 <!--
 **meispi/meispi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
