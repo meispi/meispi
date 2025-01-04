@@ -1,7 +1,4 @@
 ### Hi there 👋, I am Saurabh Tiwari (aka meispi)
-- 🔭 I am currently working on improving my hacking skills. On weekends I solve some CTF challenges at [ctftime](https://ctftime.org/).
-- 📖 I write [blogs](https://meispi.github.io/) about CTF challenges, their writeups and some learnings that I have gained from them.
-- 📫 Reach out to me on: [Twitter](https://twitter.com/meispi_) or [LinkedIn](https://www.linkedin.com/in/meispi/)
 <img src="https://media.giphy.com/media/jOsHaMf80vUfevmEkn/giphy.gif" width="256">
 <!--
 **meispi/meispi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
